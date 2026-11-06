@@ -1,5 +1,7 @@
 ﻿namespace ParallelComputingLab;
-
+/// <summary>
+/// test
+/// </summary>
 internal class Program
 {
     static void Main()
